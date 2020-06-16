@@ -1,0 +1,141 @@
+body {
+
+animation: bgcolor infinite 10s;
+}
+@keyframes bgcolor{
+    0%{
+        background-color: lightgreen;
+    }
+    20%{
+        background-color: chartreuse;
+    }
+    40%{
+        background-color: cyan;
+    }
+    60%{
+        background-color: honeydew;
+    }
+    80%{
+        background-color: forestgreen;
+
+    }
+    100%{
+        background-color: green;
+    }
+}
+table{
+    
+    width: 100%;
+    margin: auto;
+}
+table td{
+  
+   
+}
+
+.logo {
+    height: 200px;
+    width: 220px;
+    
+}
+.team{
+    height: 200px;
+    width: 600px;
+}
+.text{
+    height: 200px;
+    width: 100px;
+    
+    font-style: italic;
+    color: indigo;
+    font-display: fallback;
+    text-align: justify;
+    
+}
+
+.img-logo{
+    height: 200px;
+    width: 220px;
+}
+.img-team {
+    height: 200px;
+    width: 100%;
+}
+
+
+
+.mash-logo{
+    height: 200px;
+    width: 380px;
+}
+
+.liton1-logo{
+    height: 200px;
+    width: 380px;
+}
+.liton-logo{
+    height: 200px;
+    width: 380px;
+    color: crimson;
+    background-color: lightgreen;
+    text-align: center;
+}
+.miraj-logo{
+    height: 200px;
+    width: 380px;
+}
+.rubel-logo{
+    height: 200px;
+    width: 380px;
+}
+.saif-logo{
+    height: 200px;
+    width: 380px;
+
+}
+.taskin-logo{
+    height: 200px;
+    width: 380px;
+}
+.musi-logo{
+    height: 200px;
+    width: 380px;
+}
+.sakib-logo{
+    height: 200px;
+    width: 380px;
+}
+.tamim-logo{
+    height: 200px;
+    width: 380px;
+}
+.musta-logo{
+    height: 200px;
+    width: 380px;
+}
+.mahmud-logo{
+    height: 200px;
+    width: 380px;
+}
+.first-button{
+    width: 200px;
+    background-color: brown;
+    line-height: 10px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 2px;
+    color: blanchedalmond;
+    text-decoration: none;
+    
+}
+.first-button:hover{
+    background-color: cadetblue;
+    text-shadow: black;
+    border-radius: 30px;
+}
+
+
+
+
+}
